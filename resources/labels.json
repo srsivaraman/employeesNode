@@ -1,0 +1,22 @@
+{
+  "successMessages"		       : {
+    "employeeList"  		   : "EmployeeList",
+    "employeeSalaries"         : "Employees with Salary Detail",
+    "salaries List"            : "Salaries with EmployeeId",
+    "employeeAdd"                    : "Employee Added Successfully",
+    "employeeDelete"                   : "Employee Deleted Successfully",
+    "dbConnect"                 : "Database is connected",
+    "listenPort"                : "Server Listening on port"
+  },
+  "errorMessages"		: {
+    "errorDBConnect"		  : "Can not connect to the database",
+    "employeeAdd"  		      : "Unable to save Employee to database",
+    "employeeDelete"	  : "Employee Details  Could not be Deleted"
+  },
+  "methods":{
+    "get":"GET",
+    "post":"POST",
+    "put":"PUT",
+    "delete":"Delete"
+  }
+}
